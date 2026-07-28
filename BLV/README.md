@@ -10,3 +10,5 @@ The original BLV "Belt Locker Plate" is reused and fixed with 3 x M3 hex head sc
 I printed in PEGT 0.2mm layer, recomend a higher wall loop number to increase strength around the mounts.
 
 ABS or similar may be needed for an enclosed printer
+
+** Updated to issue found by @digital0785
